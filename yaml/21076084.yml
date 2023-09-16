@@ -1,0 +1,39 @@
+---
+id: 21076084
+name: Trickstar Reincarnation
+type: Trap Card
+frameType: trap
+desc: Banish your opponent's entire hand, and if you do, they draw the same number
+  of cards. You can banish this card from your GY, then target 1 "Trickstar" monster
+  in your GY; Special Summon it.
+race: Normal
+archetype: Trickstar
+card_sets:
+- set_name: 'Battles of Legend: Relentless Revenge'
+  set_code: BLRR-EN105
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '4.27'
+- set_name: Code of the Duelist
+  set_code: COTD-EN068
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '10.57'
+- set_name: Maximum Gold
+  set_code: MAGO-EN161
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '3.16'
+banlist_info:
+  ban_ocg: Limited
+card_images:
+- id: 21076084
+  image_url: https://images.ygoprodeck.com/images/cards/21076084.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/21076084.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/21076084.jpg
+card_prices:
+- cardmarket_price: '0.88'
+  tcgplayer_price: '1.25'
+  ebay_price: '1.49'
+  amazon_price: '5.44'
+  coolstuffinc_price: '1.99'
